@@ -111,8 +111,8 @@ Submit a pull request.
 Contact
 For queries or feedback:
 
-Email: saideepikha1501@gmail.com
-GitHub: deepu-sbc
+Email: Shivam Chourasiya
+GitHub: SHIV1804
 3.Streamlit Code :
 Below is the complete Streamlit code for your Human Pose Estimation project:
 import streamlit as st
